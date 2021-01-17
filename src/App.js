@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import BackgroundBoxes from './components/BackgroundBoxes'
 
 const App = () => {
-  return <placeholder />
+  return <BackgroundBoxes />
 }
 
 export default App
